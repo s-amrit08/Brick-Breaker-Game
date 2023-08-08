@@ -5,5 +5,3 @@ The goal of this project is to create an easy to use, pick up and play game that
 The following project includes multiple levels, a leader board which is presented after the game is over. 
 
 The project makes the use of concepts of Java AWT, Java Swing, OOPs concepts, file handling and much more.
-
-
